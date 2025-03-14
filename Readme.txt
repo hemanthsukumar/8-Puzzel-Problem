@@ -1,8 +1,5 @@
 README
 
-Name: Hemanth Sukumar Vangala
-UTA ID: 1002118951
-
 Description:
 This program is a command-line utility called "expense_8_puzzle" that solves the 8-puzzle problem using various search algorithms. The user provides a start state and a goal state for the 8-puzzle problem, along with the desired search method and a dump flag that indicates whether or not to output the search results to a file.
 
